@@ -1,0 +1,7 @@
+<map id="NHSKioskApp.Services.TimeoutService.OnViewModelChanged" name="NHSKioskApp.Services.TimeoutService.OnViewModelChanged">
+<area shape="rect" id="Node000001" title="Event handler for when the current view model has changed. Stops the timer when the current view mode..." alt="" coords="266,39,478,81"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html#a27da7e11970000650df9e3b8e5b869ab" title="Cleanup for disposing the service. Stops the timer and unsubscribes from all events." alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,47,218,43,218,38,251,42"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html#ac2eb79d0083982012c5fe9da5e80f483" title="Constructor for a TimeoutService. Initalizes fields and timer. Subscribes to interaction events." alt="" coords="5,72,218,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,78,218,82,218,77,250,73"/>
+</map>

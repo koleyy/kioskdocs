@@ -1,0 +1,23 @@
+<map id="NHSKioskApp.Components.NavButton" name="NHSKioskApp.Components.NavButton">
+<area shape="rect" id="Node000001" title="Class for a custom navigation button user control." alt="" coords="526,166,739,209"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,14,144,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,13,221,6,296,3,376,9,415,17,453,29,506,57,552,93,590,132,617,164,613,167,586,135,548,97,503,61,451,34,414,22,375,15,296,8,222,11,159,19"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_components_1_1_nav_button.html" title="Class for a custom navigation button user control." alt="" coords="240,84,452,126"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="158,43,276,80,275,86,157,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,124,191,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,166,366,182,526,191,526,196,366,187,206,171"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="206,151,526,176,526,182,206,156"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="206,136,372,146,535,163,534,168,371,151,206,141"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="205,143,298,124,299,129,206,148"/>
+<area shape="poly" id="edge12_Node000005_Node000003" title=" " alt="" coords="206,125,239,119,240,125,207,130"/>
+<area shape="poly" id="edge14_Node000005_Node000003" title=" " alt="" coords="160,117,239,102,240,107,161,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="8,286,188,329"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,296,403,254,582,207,583,212,404,259,203,301"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="202,282,533,207,535,212,203,287"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="162,279,336,233,526,194,527,199,338,239,163,284"/>
+<area shape="poly" id="edge11_Node000005_Node000004" title=" " alt="" coords="153,275,249,198,328,125,331,129,252,202,157,279"/>
+<area shape="poly" id="edge13_Node000005_Node000004" title=" " alt="" coords="135,274,317,125,320,129,139,279"/>
+<area shape="poly" id="edge15_Node000005_Node000004" title=" " alt="" coords="123,273,208,197,300,125,303,129,211,201,127,277"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="452,128,503,142,569,163,567,168,502,147,451,133"/>
+<area shape="poly" id="edge16_Node000005_Node000005" title=" " alt="" coords="323,66,331,59,346,57,360,59,369,65,373,74,372,83,367,83,368,75,365,68,358,64,346,62,334,64,326,70"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NHSKioskApp.MVVM.ViewModels.DonateViewModel" name="NHSKioskApp.MVVM.ViewModels.DonateViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,235,272"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_view_model.html" title="Abstract class for a view model." alt="" coords="77,155,163,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,197,123,229,117,229,117,197"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="57,80,183,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,122,123,154,117,154,117,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="39,5,201,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,48,123,80,117,80,117,48"/>
+</map>

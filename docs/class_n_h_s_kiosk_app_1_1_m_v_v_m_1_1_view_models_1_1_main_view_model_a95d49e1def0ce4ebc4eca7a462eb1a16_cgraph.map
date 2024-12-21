@@ -1,0 +1,13 @@
+<map id="NHSKioskApp.MVVM.ViewModels.MainViewModel.Dispose" name="NHSKioskApp.MVVM.ViewModels.MainViewModel.Dispose">
+<area shape="rect" id="Node000001" title="Cleanup method that unsubscribes events." alt="" coords="5,72,235,115"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#aeb95658e727d26b35764c4becef163a7" title="Event Handler that checks for if the time has changed." alt="" coords="293,5,522,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,69,297,49,298,55,216,74"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a440d2cf015891c522fd740c8f0dd67e8" title="Event Handler that checks for if the view model has changed." alt="" coords="283,72,533,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,91,267,91,267,96,235,96"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#afd57510d28a9f48c8f47ed65b85b0a26" title="Event Handler that checks for if the warning has changed." alt="" coords="291,139,524,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="216,113,298,132,297,137,214,118"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html#a04fad542b8606225cf9c8b12a8138aeb" title=" " alt="" coords="581,72,789,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,46,579,65,578,70,499,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="534,91,565,91,565,96,534,96"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="499,135,578,116,579,121,500,141"/>
+</map>

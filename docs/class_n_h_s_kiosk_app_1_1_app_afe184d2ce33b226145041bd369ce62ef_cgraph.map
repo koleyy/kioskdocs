@@ -1,0 +1,9 @@
+<map id="NHSKioskApp.App.App" name="NHSKioskApp.App.App">
+<area shape="rect" id="Node000001" title="Constructor for the App. Sets up all services and view models through dependency injection." alt="" coords="5,80,166,107"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_app.html#a675ddc0fadbe120e776bf6ba3fc068f2" title=" " alt="" coords="214,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,77,218,51,220,56,133,82"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_app.html#a5d1131f1524657aa6380c33698d34a07" title=" " alt="" coords="214,72,400,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,91,198,91,198,96,166,96"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_app.html#a299844446955c58e8d199ae72fa2ffd3" title=" " alt="" coords="214,139,400,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,105,220,131,218,136,132,110"/>
+</map>

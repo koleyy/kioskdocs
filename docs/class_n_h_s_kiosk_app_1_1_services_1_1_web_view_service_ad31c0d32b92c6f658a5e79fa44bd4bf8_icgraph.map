@@ -1,0 +1,25 @@
+<map id="NHSKioskApp.Services.WebViewService.DisposeBrowser" name="NHSKioskApp.Services.WebViewService.DisposeBrowser">
+<area shape="rect" id="Node000001" title="Disposes the current browser." alt="" coords="1512,191,1706,233"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a82653639cf1e8f39a59ac1dbfaf807cf" title="Sets the web view browser to a newly created browser starting at the specified url...." alt="" coords="1273,191,1464,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1497,215,1465,215,1465,209,1497,209"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#abf4c2dc270f002744409fc04df0f0960" title=" " alt="" coords="971,109,1216,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1278,188,1167,155,1169,150,1280,183"/>
+<area shape="rect" id="Node000009" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_lost_pets_view_model.html#ab30d7841c678977e20602d9c73630547" title="Navigates to a specified URL in the WebView and switches to the WebViewer view." alt="" coords="962,191,1225,233"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="1257,215,1225,215,1225,209,1257,209"/>
+<area shape="rect" id="Node000011" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#af4806b2657231902d1704c74b1aaee0b" title="Constructs a WebViewService." alt="" coords="995,257,1192,300"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="1264,240,1185,259,1184,254,1262,235"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#aeb7dc7253e65714b4e5c455c8ab5e288" title=" " alt="" coords="622,5,914,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1028,105,914,63,873,51,874,46,915,57,1030,100"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#a45a291aa3ca0160ac0bf0ee1a22920ed" title=" " alt="" coords="5,147,235,189"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="955,143,914,145,542,160,235,168,235,163,542,155,914,140,955,138"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#a09649b1ac6c37a955a4b9143008c50fd" title=" " alt="" coords="630,72,906,131"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="955,121,906,116,906,111,956,116"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#adc0cbdd6205eeb714a2e9a522ae891fe" title=" " alt="" coords="283,80,574,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="653,55,529,82,528,77,652,49"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#ac7d257c1520496d2a36d036e21be610e" title="Cleanup for disposing the view model." alt="" coords="5,80,235,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="267,104,235,104,235,99,267,99"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="312,129,222,149,221,143,311,124"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="615,104,574,104,574,99,615,99"/>
+<area shape="rect" id="Node000010" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_lost_pets_view_model.html#a8d0b415bebf152688eb5aafa539236ea" title=" " alt="" coords="640,205,897,248"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="947,221,897,224,897,218,947,216"/>
+</map>

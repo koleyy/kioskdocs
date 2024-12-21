@@ -1,0 +1,8 @@
+<map id="NHSKioskApp.Services.WeatherService.UpdateWeather" name="NHSKioskApp.Services.WeatherService.UpdateWeather">
+<area shape="rect" id="Node000001" title="Updates the current weather icon and temperature." alt="" coords="528,35,741,77"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_weather_service.html#a8fa8fe1f789acd1fbd8611fbe459137c" title="Event handler for when the timer ticks. Updates the weather." alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,45,480,41,481,36,513,40"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_weather_service.html#a02d793ea176821bc63a727b32f447c64" title="Constructor for a WeatherService. Initializes the weather fields and timer." alt="" coords="5,35,219,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="512,62,480,63,267,63,219,62,219,56,267,57,480,57,512,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,43,219,47,219,41,251,38"/>
+</map>

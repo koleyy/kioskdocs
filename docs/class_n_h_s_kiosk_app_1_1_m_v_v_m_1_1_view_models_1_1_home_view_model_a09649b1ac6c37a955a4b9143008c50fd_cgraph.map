@@ -1,0 +1,12 @@
+<map id="NHSKioskApp.MVVM.ViewModels.HomeViewModel.FetchFeaturedCommunityEventAsync" name="NHSKioskApp.MVVM.ViewModels.HomeViewModel.FetchFeaturedCommunityEventAsync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,281,85"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#abf4c2dc270f002744409fc04df0f0960" title=" " alt="" coords="329,35,574,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,53,313,53,313,59,281,59"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a82653639cf1e8f39a59ac1dbfaf807cf" title="Sets the web view browser to a newly created browser starting at the specified url...." alt="" coords="622,35,813,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,53,606,53,606,59,574,59"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#ad31c0d32b92c6f658a5e79fa44bd4bf8" title="Disposes the current browser." alt="" coords="861,5,1056,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="813,42,845,38,846,43,814,47"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a9fd190bd160b96c37af2ec213dd2ee09" title="Action for when IsLoading has changed." alt="" coords="1104,35,1312,77"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="814,56,861,57,1056,57,1088,57,1088,62,1056,63,861,63,814,62"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1057,35,1088,39,1088,45,1056,41"/>
+</map>

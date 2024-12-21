@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.Services.TimeService.TimerTick" name="NHSKioskApp.Services.TimeService.TimerTick">
+<area shape="rect" id="Node000001" title="Event handler for when the timer ticks. Updates the time." alt="" coords="248,5,442,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_time_service.html#aca0addb5255bb2a598a750789fe9084d" title="Constructor for a TimeService. Initializes the current time and the timer." alt="" coords="5,5,200,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,29,200,29,200,24,232,24"/>
+</map>

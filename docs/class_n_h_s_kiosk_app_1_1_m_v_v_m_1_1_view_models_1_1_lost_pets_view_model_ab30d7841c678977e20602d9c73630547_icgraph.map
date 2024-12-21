@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.MVVM.ViewModels.LostPetsViewModel.NavigateToWebView" name="NHSKioskApp.MVVM.ViewModels.LostPetsViewModel.NavigateToWebView">
+<area shape="rect" id="Node000001" title="Navigates to a specified URL in the WebView and switches to the WebViewer view." alt="" coords="311,5,573,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_lost_pets_view_model.html#a8d0b415bebf152688eb5aafa539236ea" title=" " alt="" coords="5,5,263,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,29,263,29,263,24,295,24"/>
+</map>

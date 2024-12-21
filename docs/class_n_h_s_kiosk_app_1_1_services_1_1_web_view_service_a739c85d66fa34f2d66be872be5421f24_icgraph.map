@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.Services.WebViewService.IsValidDomain" name="NHSKioskApp.Services.WebViewService.IsValidDomain">
+<area shape="rect" id="Node000001" title="Checks if specified url exists in the NHS domain name space." alt="" coords="318,5,509,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_cef_sharp_1_1_custom_request_handler.html#affac22d900e291f9445560b873f8653f" title="Called before browser navigation. If the navigation is allowed IChromiumWebBrowserBase...." alt="" coords="5,5,270,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,29,270,29,270,24,302,24"/>
+</map>

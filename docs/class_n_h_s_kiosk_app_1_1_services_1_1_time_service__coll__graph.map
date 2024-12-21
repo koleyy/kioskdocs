@@ -1,0 +1,7 @@
+<map id="NHSKioskApp.Services.TimeService" name="NHSKioskApp.Services.TimeService">
+<area shape="rect" id="Node000001" title="Service for tracking the current date and time." alt="" coords="5,155,200,197"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="40,80,165,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,122,105,154,100,154,100,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,5,183,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,48,105,80,100,80,100,48"/>
+</map>

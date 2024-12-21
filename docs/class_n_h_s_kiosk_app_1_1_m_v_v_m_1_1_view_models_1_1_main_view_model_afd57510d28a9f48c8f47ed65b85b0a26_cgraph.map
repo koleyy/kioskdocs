@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.MVVM.ViewModels.MainViewModel.OnWarningChanged" name="NHSKioskApp.MVVM.ViewModels.MainViewModel.OnWarningChanged">
+<area shape="rect" id="Node000001" title="Event Handler that checks for if the warning has changed." alt="" coords="5,5,239,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html#a04fad542b8606225cf9c8b12a8138aeb" title=" " alt="" coords="287,5,495,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,24,271,24,271,29,239,29"/>
+</map>

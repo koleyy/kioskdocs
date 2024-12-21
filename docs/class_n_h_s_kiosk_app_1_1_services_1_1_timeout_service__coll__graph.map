@@ -1,0 +1,9 @@
+<map id="NHSKioskApp.Services.TimeoutService" name="NHSKioskApp.Services.TimeoutService">
+<area shape="rect" id="Node000001" title="Service for handling inactivity timeout." alt="" coords="129,188,342,231"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="23,89,149,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,123,207,185,204,190,115,127"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,47,89,89,83,89,83,47"/>
+<area shape="rect" id="Node000004" href="$interface_n_h_s_kiosk_app_1_1_services_1_1_interfaces_1_1_i_navigation_service.html" title="Service to manage the current view model of the application." alt="" coords="172,81,400,124"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,139,248,189,243,186,267,137"/>
+</map>

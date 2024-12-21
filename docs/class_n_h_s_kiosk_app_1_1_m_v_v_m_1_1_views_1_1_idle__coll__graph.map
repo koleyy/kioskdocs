@@ -1,0 +1,15 @@
+<map id="NHSKioskApp.MVVM.Views.Idle" name="NHSKioskApp.MVVM.Views.Idle">
+<area shape="rect" id="Node000001" title="Class for the Home view." alt="" coords="345,105,560,132"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,21,238,32,321,52,381,76,429,102,427,107,378,81,320,57,237,37,159,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,56,191,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,99,345,120,344,125,179,105"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="207,87,344,103,344,109,206,93"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="207,71,325,84,422,102,421,107,324,89,206,76"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="8,137,188,180"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,161,322,148,421,130,422,135,323,153,203,166"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="203,144,344,128,344,133,203,150"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="180,131,344,111,344,117,180,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="60,221,136,248"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="150,223,231,205,320,179,377,155,425,130,427,135,379,159,322,184,232,210,151,228"/>
+</map>

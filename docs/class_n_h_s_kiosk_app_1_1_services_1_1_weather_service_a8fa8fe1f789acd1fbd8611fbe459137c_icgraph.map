@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.Services.WeatherService.TimerTick" name="NHSKioskApp.Services.WeatherService.TimerTick">
+<area shape="rect" id="Node000001" title="Event handler for when the timer ticks. Updates the weather." alt="" coords="267,5,480,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_weather_service.html#a02d793ea176821bc63a727b32f447c64" title="Constructor for a WeatherService. Initializes the weather fields and timer." alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
+</map>

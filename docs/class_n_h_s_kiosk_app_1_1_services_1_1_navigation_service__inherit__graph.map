@@ -1,0 +1,9 @@
+<map id="NHSKioskApp.Services.NavigationService" name="NHSKioskApp.Services.NavigationService">
+<area shape="rect" id="Node000001" title="Service to manage the current view model of the application." alt="" coords="48,155,276,197"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="23,80,149,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,116,145,153,141,156,106,120"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,48,89,80,83,80,83,48"/>
+<area shape="rect" id="Node000004" href="$interface_n_h_s_kiosk_app_1_1_services_1_1_interfaces_1_1_i_navigation_service.html" title="Service to manage the current view model of the application." alt="" coords="172,80,304,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,120,183,156,179,153,214,116"/>
+</map>

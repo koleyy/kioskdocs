@@ -1,0 +1,7 @@
+<map id="NHSKioskApp.MVVM.ViewModels.MainViewModel.OnTimeChanged" name="NHSKioskApp.MVVM.ViewModels.MainViewModel.OnTimeChanged">
+<area shape="rect" id="Node000001" title="Event Handler that checks for if the time has changed." alt="" coords="283,39,512,81"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a95d49e1def0ce4ebc4eca7a462eb1a16" title="Cleanup method that unsubscribes events." alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,47,235,43,235,38,267,42"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a4d6e3ac860bdff81b7066cae07ba35e7" title="Constructor of MainViewModel object." alt="" coords="5,72,235,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,78,235,82,235,77,267,73"/>
+</map>

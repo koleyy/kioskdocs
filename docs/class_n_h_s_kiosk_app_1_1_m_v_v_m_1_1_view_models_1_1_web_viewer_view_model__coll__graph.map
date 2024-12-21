@@ -1,0 +1,14 @@
+<map id="NHSKioskApp.MVVM.ViewModels.WebViewerViewModel" name="NHSKioskApp.MVVM.ViewModels.WebViewerViewModel">
+<area shape="rect" id="Node000001" title="View model for the WebViewer view." alt="" coords="736,56,965,99"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_view_model.html" title="Abstract class for a view model." alt="" coords="462,5,547,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,26,736,55,735,61,562,31"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="216,36,341,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,36,461,22,461,27,357,41"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html" title="Service for managing the web viewer." alt="" coords="409,56,600,99"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="357,56,409,63,408,68,356,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,36,167,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="182,47,216,47,216,52,182,52"/>
+<area shape="rect" id="Node000005" href="$interface_n_h_s_kiosk_app_1_1_services_1_1_interfaces_1_1_i_navigation_service.html" title="Service to manage the current view model of the application." alt="" coords="391,123,618,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="632,117,735,97,736,102,634,122"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="616,75,736,75,736,80,616,80"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_n_h_s_kiosk_app_1_1_services_1_1_interfaces_1_1_i_navigation_service.html" title="Service to manage the current view model of the application." alt="" coords="215,113,442,156"/>
+<area shape="rect" id="Node000001" href="$class_n_h_s_kiosk_app_1_1_services_1_1_navigation_service.html" title="Service to manage the current view model of the application." alt="" coords="490,113,717,156"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="458,132,490,132,490,137,458,137"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="5,272,167,299"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html" title="Class for objects that are observable." alt="" coords="224,264,432,307"/>
+<area shape="poly" id="edge8_Node000014_Node000002" title=" " alt="" coords="182,283,224,283,224,288,182,288"/>
+<area shape="poly" id="edge16_Node000002_Node000001" title=" " alt="" coords="363,252,420,208,489,166,516,154,518,159,491,170,423,212,367,256"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_core_1_1_view_model.html" title="Abstract class for a view model." alt="" coords="500,180,707,207"/>
+<area shape="poly" id="edge9_Node000002_Node000003" title=" " alt="" coords="389,255,489,216,531,205,532,210,491,221,391,260"/>
+<area shape="rect" id="Node000010" href="$class_n_h_s_kiosk_app_1_1_services_1_1_time_service.html" title="Service for tracking the current date and time." alt="" coords="506,231,701,273"/>
+<area shape="poly" id="edge17_Node000002_Node000010" title=" " alt="" coords="448,268,506,261,506,266,448,274"/>
+<area shape="rect" id="Node000011" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html" title="Service for handling inactivity timeout." alt="" coords="498,297,710,340"/>
+<area shape="poly" id="edge18_Node000002_Node000011" title=" " alt="" coords="448,297,497,303,497,308,448,302"/>
+<area shape="rect" id="Node000012" href="$class_n_h_s_kiosk_app_1_1_services_1_1_weather_service.html" title="Service for keeping track of the current weather." alt="" coords="497,364,710,407"/>
+<area shape="poly" id="edge19_Node000002_Node000012" title=" " alt="" coords="393,311,491,349,525,361,524,366,489,355,391,316"/>
+<area shape="rect" id="Node000013" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html" title="Service for managing the web viewer." alt="" coords="508,431,699,473"/>
+<area shape="poly" id="edge20_Node000002_Node000013" title=" " alt="" coords="362,316,420,367,454,394,491,416,517,428,515,433,489,421,451,398,416,371,359,320"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_donate_view_model.html" title=" " alt="" coords="765,5,995,48"/>
+<area shape="poly" id="edge10_Node000003_Node000004" title=" " alt="" coords="710,170,716,166,727,154,734,141,739,114,744,86,751,72,764,58,780,46,783,51,767,62,756,75,749,88,744,115,739,143,732,157,719,170,714,174"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html" title="View model for the home view." alt="" coords="765,72,995,115"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="702,172,716,166,730,156,740,146,749,135,764,124,789,113,792,118,767,129,753,139,743,149,734,160,719,170,704,177"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_idle_view_model.html" title="ViewModel for the Idle view, providing navigation commands for specific sections." alt="" coords="765,139,995,181"/>
+<area shape="poly" id="edge12_Node000003_Node000006" title=" " alt="" coords="722,176,765,171,765,176,723,182"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_lost_pets_view_model.html" title="ViewModel for the LostPets view, providing navigation commands for specific sections." alt="" coords="765,205,995,248"/>
+<area shape="poly" id="edge13_Node000003_Node000007" title=" " alt="" coords="723,205,765,210,765,215,722,210"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html" title="View model for the main window view." alt="" coords="765,272,995,315"/>
+<area shape="poly" id="edge14_Node000003_Node000008" title=" " alt="" coords="704,210,719,216,734,227,743,237,753,248,767,258,792,269,789,274,764,262,749,252,740,241,730,231,716,221,702,215"/>
+<area shape="rect" id="Node000009" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_web_viewer_view_model.html" title="View model for the WebViewer view." alt="" coords="765,339,995,381"/>
+<area shape="poly" id="edge15_Node000003_Node000009" title=" " alt="" coords="714,212,719,217,732,230,739,244,744,272,749,299,756,312,767,325,783,336,780,340,764,329,751,315,744,301,739,273,734,246,727,233,716,221,710,217"/>
+</map>

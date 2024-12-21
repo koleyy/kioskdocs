@@ -1,0 +1,23 @@
+<map id="NHSKioskApp.Core.ObservableObject.OnPropertyChanged" name="NHSKioskApp.Core.ObservableObject.OnPropertyChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="622,155,830,197"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#adc0cbdd6205eeb714a2e9a522ae891fe" title=" " alt="" coords="283,55,574,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,150,573,112,534,100,536,95,575,107,669,145"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#aeb95658e727d26b35764c4becef163a7" title="Event Handler that checks for if the time has changed." alt="" coords="314,121,543,164"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="606,165,543,158,544,153,607,160"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a440d2cf015891c522fd740c8f0dd67e8" title="Event Handler that checks for if the view model has changed." alt="" coords="303,188,554,231"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="607,192,554,198,554,193,606,187"/>
+<area shape="rect" id="Node000009" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#afd57510d28a9f48c8f47ed65b85b0a26" title="Event Handler that checks for if the warning has changed." alt="" coords="312,255,545,297"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="669,207,575,245,536,257,534,252,573,240,667,202"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#ac7d257c1520496d2a36d036e21be610e" title="Cleanup for disposing the view model." alt="" coords="5,5,235,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,54,235,48,235,42,276,49"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#a45a291aa3ca0160ac0bf0ee1a22920ed" title=" " alt="" coords="5,72,235,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="267,88,235,90,235,84,267,82"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a95d49e1def0ce4ebc4eca7a462eb1a16" title="Cleanup method that unsubscribes events." alt="" coords="5,155,235,197"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="298,159,236,166,235,161,298,154"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_main_view_model.html#a4d6e3ac860bdff81b7066cae07ba35e7" title="Constructor of MainViewModel object." alt="" coords="5,221,235,264"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="300,172,284,178,260,195,236,212,208,223,206,218,233,207,257,190,281,174,298,167"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="288,197,235,191,235,186,288,192"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="288,227,235,233,235,228,288,222"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="298,252,281,245,257,228,233,212,206,200,208,195,236,207,260,224,284,240,300,247"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="296,264,235,258,236,252,297,259"/>
+</map>

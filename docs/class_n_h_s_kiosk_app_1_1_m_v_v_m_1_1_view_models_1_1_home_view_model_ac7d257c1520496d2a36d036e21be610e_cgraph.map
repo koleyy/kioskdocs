@@ -1,0 +1,21 @@
+<map id="NHSKioskApp.MVVM.ViewModels.HomeViewModel.Dispose" name="NHSKioskApp.MVVM.ViewModels.HomeViewModel.Dispose">
+<area shape="rect" id="Node000001" title="Cleanup for disposing the view model." alt="" coords="5,80,235,123"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#adc0cbdd6205eeb714a2e9a522ae891fe" title=" " alt="" coords="283,80,574,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,99,267,99,267,104,235,104"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#aeb7dc7253e65714b4e5c455c8ab5e288" title=" " alt="" coords="622,5,914,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="528,77,652,49,654,54,530,82"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#a09649b1ac6c37a955a4b9143008c50fd" title=" " alt="" coords="630,72,906,131"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="575,99,615,99,615,104,575,104"/>
+<area shape="rect" id="Node000009" href="$class_n_h_s_kiosk_app_1_1_core_1_1_observable_object.html#a04fad542b8606225cf9c8b12a8138aeb" title=" " alt="" coords="664,155,872,197"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="530,121,654,148,652,153,528,126"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_m_v_v_m_1_1_view_models_1_1_home_view_model.html#abf4c2dc270f002744409fc04df0f0960" title=" " alt="" coords="962,43,1208,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="915,41,947,45,946,50,914,47"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a82653639cf1e8f39a59ac1dbfaf807cf" title="Sets the web view browser to a newly created browser starting at the specified url...." alt="" coords="1256,43,1447,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1208,61,1240,61,1240,67,1208,67"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#ad31c0d32b92c6f658a5e79fa44bd4bf8" title="Disposes the current browser." alt="" coords="1495,13,1689,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1447,50,1479,46,1480,51,1448,55"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a9fd190bd160b96c37af2ec213dd2ee09" title="Action for when IsLoading has changed." alt="" coords="1737,43,1946,85"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="1448,64,1495,65,1689,65,1721,65,1721,70,1689,71,1495,71,1448,70"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1690,43,1722,47,1722,53,1690,49"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="906,82,947,78,947,83,907,88"/>
+</map>

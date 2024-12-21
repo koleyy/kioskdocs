@@ -1,0 +1,9 @@
+<map id="NHSKioskApp.Services.TimeoutService.Dispose" name="NHSKioskApp.Services.TimeoutService.Dispose">
+<area shape="rect" id="Node000001" title="Cleanup for disposing the service. Stops the timer and unsubscribes from all events." alt="" coords="5,72,218,115"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html#a6e91060c1c0ff8fee38ac87f6f2717f7" title="Event handler for when the current view model has changed. Stops the timer when the current view mode..." alt="" coords="266,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,69,270,50,272,55,198,74"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html#a8dae6f67195a75939c56ba7b32f56327" title="Event handler for when user interaction occurs. Sets the last interaction time and restarts the timer..." alt="" coords="266,72,478,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,91,250,91,250,96,218,96"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_services_1_1_timeout_service.html#ad11cc52c4c21cd6b2466996da912c787" title="Event handler for when the timer ticks. Handles the timeout functionality." alt="" coords="266,139,478,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,113,272,132,270,137,197,118"/>
+</map>

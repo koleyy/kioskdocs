@@ -1,0 +1,10 @@
+<map id="NHSKioskApp.MVVM.ViewModels.LostPetsViewModel.NavigateToWebView" name="NHSKioskApp.MVVM.ViewModels.LostPetsViewModel.NavigateToWebView">
+<area shape="rect" id="Node000001" title="Navigates to a specified URL in the WebView and switches to the WebViewer view." alt="" coords="5,35,268,77"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a82653639cf1e8f39a59ac1dbfaf807cf" title="Sets the web view browser to a newly created browser starting at the specified url...." alt="" coords="316,35,507,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,53,300,53,300,59,268,59"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#ad31c0d32b92c6f658a5e79fa44bd4bf8" title="Disposes the current browser." alt="" coords="555,5,749,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,42,539,38,540,43,508,47"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a9fd190bd160b96c37af2ec213dd2ee09" title="Action for when IsLoading has changed." alt="" coords="797,35,1006,77"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="508,56,555,57,749,57,781,57,781,62,749,63,555,63,508,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="750,35,782,39,782,45,750,41"/>
+</map>

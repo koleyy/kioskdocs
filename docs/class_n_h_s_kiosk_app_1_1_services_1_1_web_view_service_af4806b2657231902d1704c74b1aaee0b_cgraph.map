@@ -1,0 +1,10 @@
+<map id="NHSKioskApp.Services.WebViewService.WebViewService" name="NHSKioskApp.Services.WebViewService.WebViewService">
+<area shape="rect" id="Node000001" title="Constructs a WebViewService." alt="" coords="5,35,203,77"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a82653639cf1e8f39a59ac1dbfaf807cf" title="Sets the web view browser to a newly created browser starting at the specified url...." alt="" coords="251,35,442,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,53,235,53,235,59,203,59"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#ad31c0d32b92c6f658a5e79fa44bd4bf8" title="Disposes the current browser." alt="" coords="490,5,684,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,42,474,38,475,43,443,47"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_kiosk_app_1_1_services_1_1_web_view_service.html#a9fd190bd160b96c37af2ec213dd2ee09" title="Action for when IsLoading has changed." alt="" coords="732,35,941,77"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="443,56,490,57,684,57,716,57,716,62,684,63,490,63,443,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,35,717,39,717,45,685,41"/>
+</map>

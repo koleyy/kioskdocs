@@ -1,0 +1,5 @@
+<map id="NHSKioskApp.Core.CefSharp.CustomRequestHandler" name="NHSKioskApp.Core.CefSharp.CustomRequestHandler">
+<area shape="rect" id="Node000001" title="Custom implementation of CefSharp&#39;s RequestHandler class." alt="" coords="5,80,207,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,5,164,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
+</map>
